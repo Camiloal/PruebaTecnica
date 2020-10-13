@@ -1,0 +1,176 @@
+{
+	"info": {
+		"_postman_id": "091a74ee-fd61-46fc-b46d-1184ed549e4b",
+		"name": "Bank",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetUsers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44392/api/bank/lista-usuarios",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44392",
+					"path": [
+						"api",
+						"bank",
+						"lista-usuarios"
+					]
+				},
+				"description": "Trae todos los usuarios con su respectiva cuenta"
+			},
+			"response": []
+		},
+		{
+			"name": "CreateAccount",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "Nombre",
+							"value": "David",
+							"type": "text"
+						},
+						{
+							"key": "Apellido",
+							"value": "Medina",
+							"type": "text"
+						},
+						{
+							"key": "Valor",
+							"value": "10000",
+							"type": "text"
+						}
+					],
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44392/api/bank/crear-cuenta",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44392",
+					"path": [
+						"api",
+						"bank",
+						"crear-cuenta"
+					]
+				},
+				"description": "Se crear una cuenta de ahorros a un usuario"
+			},
+			"response": []
+		},
+		{
+			"name": "Record",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "NCuenta",
+							"value": "400",
+							"type": "text"
+						},
+						{
+							"key": "Valor",
+							"value": "1000",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://localhost:44392/api/bank/consignar",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44392",
+					"path": [
+						"api",
+						"bank",
+						"consignar"
+					]
+				},
+				"description": "Consigna una cantidad de dinero a una cuenta especifica"
+			},
+			"response": []
+		},
+		{
+			"name": "Remove",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "NCuenta",
+							"value": "400",
+							"type": "text"
+						},
+						{
+							"key": "Valor",
+							"value": "100",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://localhost:44392/api/bank/retirar",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44392",
+					"path": [
+						"api",
+						"bank",
+						"retirar"
+					]
+				},
+				"description": "Retira una cantidad de dinero a una cuenta especifica"
+			},
+			"response": []
+		},
+		{
+			"name": "CheckBalance",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44392/api/bank/consultar-saldo/400",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44392",
+					"path": [
+						"api",
+						"bank",
+						"consultar-saldo",
+						"400"
+					]
+				},
+				"description": "Consulta el saldo de una cuenta espesifica "
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
