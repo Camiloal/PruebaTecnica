@@ -33,7 +33,7 @@ namespace Bank.Controllers
             Respuesta respuesta = new Respuesta();
             try
             {
-                using (var db = new BankEntities())
+                using (var db = new Bankcontext())
                 {
 
                     db.Configuration.LazyLoadingEnabled = false;
@@ -95,7 +95,7 @@ namespace Bank.Controllers
                 nuevoUsuario.Cuenta = nuevaCuenta;
                 nuevaCuenta.Usuario = nuevoUsuario;
 
-                using (var db = new BankEntities())
+                using (var db = new Bankcontext())
                 {
                     db.Usuario.Add(nuevoUsuario);
                     db.SaveChanges();
@@ -130,7 +130,7 @@ namespace Bank.Controllers
             Respuesta respuesta = new Respuesta();
             try
             {
-                using (var db = new BankEntities())
+                using (var db = new Bankcontext())
                 {
                     var ncuenta = db.Cuenta.Where(x => x.NCuenta == consignar.NCuenta).FirstOrDefault();
                     if (ncuenta != null)
@@ -179,7 +179,7 @@ namespace Bank.Controllers
             Respuesta respuesta = new Respuesta();
             try
             {
-                using (var db = new BankEntities())
+                using (var db = new Bankcontext())
                 {
                     var ncuenta = db.Cuenta.Where(x => x.NCuenta == retirar.NCuenta).FirstOrDefault();
                     if (ncuenta != null)
@@ -237,7 +237,7 @@ namespace Bank.Controllers
             Respuesta respuesta = new Respuesta();
             try
             {
-                using (var db = new BankEntities())
+                using (var db = new Bankcontext())
                 {
                     var consultar = db.Cuenta.Where(x => x.NCuenta == ncuenta).FirstOrDefault();
                     if (consultar != null)

@@ -102,4 +102,3 @@ C:\Users\MAGG\Documents\codigo\SpringBoot\PruebaTecnica\Backend\Bank\obj\Debug\B
 C:\Users\MAGG\Documents\codigo\SpringBoot\PruebaTecnica\Backend\Bank\obj\Debug\Bank.csproj.CopyComplete
 C:\Users\MAGG\Documents\codigo\SpringBoot\PruebaTecnica\Backend\Bank\obj\Debug\Bank.dll
 C:\Users\MAGG\Documents\codigo\SpringBoot\PruebaTecnica\Backend\Bank\obj\Debug\Bank.pdb
-C:\Users\MAGG\Documents\codigo\SpringBoot\PruebaTecnica\Backend\Bank\obj\Debug\Bank.csprojAssemblyReference.cache

@@ -1,0 +1,28 @@
+2020-10-13 10:50:45,652 [5] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-13 10:53:22,106 [5] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-13 11:01:52,503 [8] INFO  Bank.Controllers.BankController [(null)] - Secreo la cuenta del usuario juan
+2020-10-13 11:01:52,554 [7] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-13 11:10:22,025 [5] INFO  Bank.Controllers.BankController [(null)] - Secreo la cuenta del usuario Duvan
+2020-10-13 11:10:22,112 [5] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-13 12:15:08,648 [10] ERROR Bank.Controllers.BankController [(null)] - Error al consultar Se produjo una excepción en el inicializador de tipo de 'System.Data.Entity.Internal.AppConfig'.
+2020-10-13 12:15:22,059 [10] ERROR Bank.Controllers.BankController [(null)] - Error al consultar Se produjo una excepción en el inicializador de tipo de 'System.Data.Entity.Internal.AppConfig'.
+2020-10-13 12:15:22,375 [9] ERROR Bank.Controllers.BankController [(null)] - Error al consultar Se produjo una excepción en el inicializador de tipo de 'System.Data.Entity.Internal.AppConfig'.
+2020-10-13 12:20:49,441 [9] ERROR Bank.Controllers.BankController [(null)] - Error al consultar Se produjo una excepción en el inicializador de tipo de 'System.Data.Entity.Internal.AppConfig'.
+2020-10-13 12:21:35,401 [9] ERROR Bank.Controllers.BankController [(null)] - Error al consultar Se produjo una excepción en el inicializador de tipo de 'System.Data.Entity.Internal.AppConfig'.
+2020-10-13 12:32:03,712 [10] ERROR Bank.Controllers.BankController [(null)] - Error al consultar Se produjo una excepción en el inicializador de tipo de 'System.Data.Entity.Internal.AppConfig'.
+2020-10-13 12:33:01,795 [12] ERROR Bank.Controllers.BankController [(null)] - Error al consultar Se produjo una excepción en el inicializador de tipo de 'System.Data.Entity.Internal.AppConfig'.
+2020-10-13 12:33:04,830 [21] ERROR Bank.Controllers.BankController [(null)] - Error al consultar Se produjo una excepción en el inicializador de tipo de 'System.Data.Entity.Internal.AppConfig'.
+2020-10-13 12:35:02,276 [10] INFO  Bank.Controllers.BankController [(null)] - Secreo la cuenta del usuario admin
+2020-10-13 12:35:07,134 [7] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-13 12:36:22,091 [8] INFO  Bank.Controllers.BankController [(null)] - Se consigno $60 a la cuenta 100
+2020-10-13 12:36:22,103 [15] INFO  Bank.Controllers.BankController [(null)] - Se consigno $60 a la cuenta 100
+2020-10-13 12:36:22,105 [7] INFO  Bank.Controllers.BankController [(null)] - Se consigno $60 a la cuenta 100
+2020-10-13 12:36:22,106 [9] INFO  Bank.Controllers.BankController [(null)] - Se consigno $60 a la cuenta 100
+2020-10-13 12:36:22,542 [9] INFO  Bank.Controllers.BankController [(null)] - Se consigno $60 a la cuenta 100
+2020-10-13 12:36:22,626 [15] INFO  Bank.Controllers.BankController [(null)] - Se consigno $60 a la cuenta 100
+2020-10-13 12:36:22,719 [7] INFO  Bank.Controllers.BankController [(null)] - Se consigno $60 a la cuenta 100
+2020-10-13 12:36:22,735 [8] INFO  Bank.Controllers.BankController [(null)] - Se consigno $60 a la cuenta 100
+2020-10-13 12:36:33,486 [8] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de $480,00
+2020-10-13 12:37:02,396 [7] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-13 12:37:10,876 [8] INFO  Bank.Controllers.BankController [(null)] - Se retiro $100 de la cuenta 100
+2020-10-13 12:37:17,366 [7] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de $380,00
