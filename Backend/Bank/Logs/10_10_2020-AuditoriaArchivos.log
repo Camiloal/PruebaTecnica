@@ -1,0 +1,4 @@
+2020-10-10 17:28:53,904 [5] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-10 18:23:13,136 [5] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-10 18:23:23,525 [5] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-10 23:02:19,424 [5] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios

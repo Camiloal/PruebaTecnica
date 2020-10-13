@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BankModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="IdUsuario" />
+    </Key>
+    <Property Name="IdUsuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Apellido" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Cuenta" Relationship="BankModel.fk_CuentaUsuario" FromRole="Usuario" ToRole="Cuenta" />
+  </EntityType>
+  <EntityContainer Name="BankEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" />
+    <EntitySet Name="Cuenta" EntityType="BankModel.Cuenta" />
+    <AssociationSet Name="fk_CuentaUsuario" Association="BankModel.fk_CuentaUsuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Cuenta" EntitySet="Cuenta" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Cuenta">
+    <Key>
+      <PropertyRef Name="IdUsuario" />
+    </Key>
+    <Property Name="IdUsuario" Type="Int32" Nullable="false" />
+    <Property Name="NCuenta" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Valor" Type="Decimal" Nullable="false" Precision="10" Scale="2" />
+    <NavigationProperty Name="Usuario" Relationship="BankModel.fk_CuentaUsuario" FromRole="Cuenta" ToRole="Usuario" />
+  </EntityType>
+  <Association Name="fk_CuentaUsuario">
+    <End Type="BankModel.Usuario" Role="Usuario" Multiplicity="1" />
+    <End Type="BankModel.Cuenta" Role="Cuenta" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="IdUsuario" />
+      </Principal>
+      <Dependent Role="Cuenta">
+        <PropertyRef Name="IdUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

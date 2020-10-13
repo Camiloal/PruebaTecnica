@@ -1,0 +1,280 @@
+2020-10-11 11:00:31,791 [22] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:02:32,651 [22] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:03:07,463 [22] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:12:27,935 [7] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:29:02,911 [7] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:29:52,276 [5] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:31:14,939 [6] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:31:59,128 [5] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:34:35,434 [6] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:43:10,392 [13] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:45:28,574 [17] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:45:33,550 [18] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:48:47,031 [21] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:49:56,023 [19] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:50:02,100 [19] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:51:49,641 [19] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:53:09,089 [19] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:53:13,211 [23] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 11:58:31,948 [28] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:02:34,452 [32] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:03:06,559 [32] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:04:20,913 [35] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:06:55,845 [34] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:10:06,570 [37] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:12:41,693 [41] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:13:59,137 [38] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:18:17,252 [38] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:18:17,317 [39] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:19:10,447 [39] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:22:44,512 [41] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:24:17,609 [44] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:32:59,051 [43] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:33:57,029 [41] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:34:05,339 [43] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:34:56,233 [43] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:35:00,870 [41] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:35:18,121 [44] INFO  Bank.Controllers.BankController [(null)] - Secreo la cuenta del usuario admin
+2020-10-11 12:35:18,159 [43] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:38:33,171 [41] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:39:28,345 [41] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:39:34,596 [41] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:41:47,540 [41] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 12:46:53,636 [52] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:02:26,931 [56] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:07:54,456 [61] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:13:18,782 [60] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:13:18,976 [61] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:13:19,031 [62] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:14:50,668 [62] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:15:06,622 [61] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:15:29,816 [62] WARN  Bank.Controllers.BankController [(null)] - La cuenta no existe
+2020-10-11 13:16:45,397 [61] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:17:03,620 [61] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:18:32,398 [61] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:18:43,969 [61] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:19:15,916 [61] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:19:29,933 [61] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:20:14,024 [61] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:20:46,888 [61] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:22:06,495 [64] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:23:12,376 [64] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:24:11,322 [69] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:25:46,171 [64] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:29:18,208 [65] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:29:37,182 [67] INFO  Bank.Controllers.BankController [(null)] - Se ha consignado 122 a la cuenta 200
+2020-10-11 13:30:01,089 [67] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:30:16,599 [65] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 13:30:23,634 [65] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 13:31:12,663 [70] INFO  Bank.Controllers.BankController [(null)] - Se ha consignado 1000 a la cuenta 200
+2020-10-11 13:31:17,935 [67] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 1222,00
+2020-10-11 13:34:21,205 [71] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:36:11,848 [75] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:36:24,563 [70] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:37:03,954 [75] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:37:06,855 [67] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:37:10,643 [70] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:37:23,443 [67] INFO  Bank.Controllers.BankController [(null)] - Se ha retirado 1000 a la cuenta 200
+2020-10-11 13:37:33,922 [67] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 13:41:11,092 [77] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:41:21,795 [78] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:41:27,347 [75] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:42:15,003 [75] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:43:13,614 [75] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:44:15,939 [78] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:44:22,824 [78] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 13:44:26,891 [80] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 14:29:01,051 [58] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 14:41:21,518 [49] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 14:50:11,679 [47] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 14:50:27,398 [47] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 14:51:34,713 [45] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 14:51:39,302 [45] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 14:52:38,469 [44] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 14:52:45,258 [45] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 14:53:01,510 [45] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 14:53:11,521 [45] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 14:56:09,168 [42] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:01:40,266 [43] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:01:52,818 [39] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:03:24,519 [36] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:03:39,139 [38] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:03:45,334 [39] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:04:00,359 [39] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:04:36,142 [38] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:04:40,504 [35] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:05:12,241 [37] WARN  Bank.Controllers.BankController [(null)] - La cuenta no existe
+2020-10-11 15:05:14,140 [38] WARN  Bank.Controllers.BankController [(null)] - La cuenta no existe
+2020-10-11 15:08:46,726 [35] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:08:48,492 [36] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:08:52,787 [35] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:09:07,636 [36] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:09:11,996 [36] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:10:56,385 [31] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:11:00,975 [35] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:11:03,928 [34] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:11:11,307 [35] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:11:14,015 [35] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:11:21,587 [35] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:11:26,257 [32] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:11:33,307 [33] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:11:41,231 [34] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:11:46,916 [32] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:11:53,576 [33] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:12:01,663 [34] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:13:15,958 [33] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:13:21,608 [33] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:13:27,927 [33] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:13:40,412 [31] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:13:44,465 [32] WARN  Bank.Controllers.BankController [(null)] - La cuenta no existe
+2020-10-11 15:17:33,021 [31] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:17:38,577 [32] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:18:47,791 [32] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:19:36,738 [31] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:20:26,873 [26] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:20:31,344 [31] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:21:07,399 [26] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:21:12,535 [31] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:22:49,108 [31] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:22:52,917 [31] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:23:09,175 [28] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:23:43,789 [25] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:23:55,950 [28] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:23:59,786 [28] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:24:02,386 [31] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:24:08,545 [31] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:24:19,206 [31] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:24:45,407 [28] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:24:52,899 [31] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:24:59,811 [28] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:25:34,652 [25] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:25:40,961 [28] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:25:44,806 [23] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:27:08,637 [28] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:27:12,599 [28] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:27:56,263 [23] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:29:52,430 [28] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:30:08,880 [28] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:31:07,631 [28] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:31:48,831 [28] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:31:52,179 [28] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:32:41,689 [25] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:32:47,085 [25] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:32:52,355 [25] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:32:57,705 [25] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:37:16,148 [25] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:37:56,912 [16] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:38:01,439 [25] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:38:13,944 [16] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:38:20,000 [23] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:38:40,928 [23] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:43:31,533 [23] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:43:31,660 [18] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:43:36,794 [15] WARN  Bank.Controllers.BankController [(null)] - La cuenta no existe
+2020-10-11 15:43:39,031 [18] WARN  Bank.Controllers.BankController [(null)] - La cuenta no existe
+2020-10-11 15:43:52,313 [18] INFO  Bank.Controllers.BankController [(null)] - La cuenta 200 tiene un saldo de 222,00
+2020-10-11 15:44:06,612 [15] WARN  Bank.Controllers.BankController [(null)] - La cuenta no existe
+2020-10-11 15:44:12,662 [18] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:44:17,111 [18] WARN  Bank.Controllers.BankController [(null)] - La cuenta no existe
+2020-10-11 15:45:13,965 [18] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:45:20,730 [15] WARN  Bank.Controllers.BankController [(null)] - La cuenta no existe
+2020-10-11 15:46:50,127 [15] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:48:44,929 [12] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:48:45,051 [13] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:49:05,555 [11] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:49:12,993 [13] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:49:21,758 [13] INFO  Bank.Controllers.BankController [(null)] - La cuenta 100 tiene un saldo de 5095,00
+2020-10-11 15:50:43,490 [12] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:50:56,417 [12] INFO  Bank.Controllers.BankController [(null)] - Se ha retirado 12 a la cuenta 100
+2020-10-11 15:51:08,810 [11] INFO  Bank.Controllers.BankController [(null)] - Se ha retirado 45 a la cuenta 200
+2020-10-11 15:52:42,725 [12] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:52:48,573 [12] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:53:03,675 [11] INFO  Bank.Controllers.BankController [(null)] - Secreo la cuenta del usuario jaja
+2020-10-11 15:53:03,712 [10] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 15:53:21,299 [11] INFO  Bank.Controllers.BankController [(null)] - Se ha consignado 300 a la cuenta 300
+2020-10-11 16:04:34,927 [6] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:04:40,512 [5] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:04:48,022 [5] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:05:32,590 [5] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:14:43,542 [8] INFO  Bank.Controllers.BankController [(null)] - Secreo la cuenta del usuario Camilo
+2020-10-11 16:14:43,599 [7] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:15:44,003 [7] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:15:47,977 [7] INFO  Bank.Controllers.BankController [(null)] - La cuenta 400 tiene un saldo de 50,00$
+2020-10-11 16:16:14,408 [8] INFO  Bank.Controllers.BankController [(null)] - Se consigno 50$ a la cuenta 400
+2020-10-11 16:18:19,603 [6] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:19:41,852 [6] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:19:45,195 [6] INFO  Bank.Controllers.BankController [(null)] - La cuenta 400 tiene un saldo de 100,00$
+2020-10-11 16:19:59,928 [7] INFO  Bank.Controllers.BankController [(null)] - Se consigno 40$ a la cuenta 400
+2020-10-11 16:20:12,848 [7] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 16:20:30,048 [8] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:20:42,198 [9] INFO  Bank.Controllers.BankController [(null)] - Se retiro 10$ de la cuenta 400
+2020-10-11 16:21:09,677 [7] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:21:18,887 [9] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 16:22:55,300 [7] WARN  Bank.Controllers.BankController [(null)] - La cuenta no existe
+2020-10-11 16:23:09,196 [9] WARN  Bank.Controllers.BankController [(null)] - La cuenta no existe
+2020-10-11 16:23:31,475 [7] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 16:23:48,831 [7] INFO  Bank.Controllers.BankController [(null)] - Se retiro 50$ de la cuenta 400
+2020-10-11 16:26:27,713 [7] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 16:27:46,033 [7] WARN  Bank.Controllers.BankController [(null)] - La cuenta no existe
+2020-10-11 16:31:20,404 [6] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:31:27,962 [8] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 16:32:05,798 [6] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:36:23,906 [10] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:39:15,270 [8] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:40:35,136 [8] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:40:48,380 [10] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 16:42:35,232 [10] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:42:51,173 [13] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 16:44:02,052 [18] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 16:44:27,729 [10] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:47:30,404 [10] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:48:48,302 [20] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:54:03,456 [28] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:54:22,082 [27] ERROR Bank.Controllers.BankController [(null)] - Error al consultar Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+2020-10-11 16:54:41,386 [27] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 16:59:52,272 [31] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:00:17,211 [31] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:00:25,634 [31] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:00:40,723 [38] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:00:50,247 [32] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:17:57,969 [6] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:18:23,504 [7] INFO  Bank.Controllers.BankController [(null)] - Secreo la cuenta del usuario diego
+2020-10-11 17:18:23,553 [8] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:18:32,075 [8] INFO  Bank.Controllers.BankController [(null)] - La cuenta 500 tiene un saldo de 300,00$
+2020-10-11 17:18:42,296 [7] INFO  Bank.Controllers.BankController [(null)] - Se consigno 300$ a la cuenta 500
+2020-10-11 17:19:01,017 [7] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 17:19:19,575 [7] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 17:21:50,073 [7] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:21:58,898 [6] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:22:08,305 [10] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 17:25:19,301 [10] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:25:47,434 [13] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:25:58,754 [11] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 17:26:30,929 [11] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:26:42,141 [15] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 17:52:05,919 [6] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 17:52:22,756 [6] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:53:33,196 [7] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:53:39,809 [7] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:54:18,523 [7] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:57:22,793 [9] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:57:35,734 [11] INFO  Bank.Controllers.BankController [(null)] - Secreo la cuenta del usuario dffd
+2020-10-11 17:57:45,969 [9] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:58:13,700 [10] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:58:33,319 [10] INFO  Bank.Controllers.BankController [(null)] - Secreo la cuenta del usuario dfgfg
+2020-10-11 17:59:10,142 [10] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:59:25,992 [11] INFO  Bank.Controllers.BankController [(null)] - Secreo la cuenta del usuario reerre
+2020-10-11 17:59:26,055 [10] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 17:59:58,576 [10] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 18:01:02,132 [11] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 18:01:20,707 [11] INFO  Bank.Controllers.BankController [(null)] - Se consigno 300$ a la cuenta 700
+2020-10-11 18:03:43,002 [12] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 18:03:58,583 [12] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 18:04:05,854 [16] INFO  Bank.Controllers.BankController [(null)] - La cuenta 600 tiene un saldo de 1212,00$
+2020-10-11 18:04:16,280 [14] WARN  Bank.Controllers.BankController [(null)] - La cantidad a retirar es superior a la cantidad disponible.
+2020-10-11 18:04:46,453 [13] INFO  Bank.Controllers.BankController [(null)] - Se retiro 10$ de la cuenta 600
+2020-10-11 18:05:24,113 [13] INFO  Bank.Controllers.BankController [(null)] - Se consulto la lista de usuarios
+2020-10-11 18:05:28,264 [13] INFO  Bank.Controllers.BankController [(null)] - La cuenta 800 tiene un saldo de 323,00$
+2020-10-11 18:05:55,890 [16] INFO  Bank.Controllers.BankController [(null)] - La cuenta 800 tiene un saldo de 323,00$
+2020-10-11 18:07:20,284 [7] INFO  Bank.Controllers.BankController [(null)] - La cuenta 800 tiene un saldo de 323,00$
+2020-10-11 18:07:38,898 [5] INFO  Bank.Controllers.BankController [(null)] - La cuenta 800 tiene un saldo de 323,00$
