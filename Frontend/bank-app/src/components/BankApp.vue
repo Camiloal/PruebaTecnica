@@ -318,7 +318,7 @@ export default {
             this.todosLosUsuarios();
             this.$toast.add({
               severity: "success",
-              summary: "retiro",
+              summary: "Cuenta",
               detail: data.data.Msg,
               life: 5000,
             });
@@ -327,7 +327,7 @@ export default {
             this.todosLosUsuarios();
             this.$toast.add({
               severity: "warn",
-              summary: "retiro",
+              summary: "Cuenta",
               detail: data.data.Msg,
               life: 5000,
             });
@@ -364,7 +364,7 @@ export default {
             this.cerrarModalConsignar();
             this.$toast.add({
               severity: "success",
-              summary: "Consignacion",
+              summary: "Consignación",
               detail: data.data.Msg,
               life: 5000,
             });
@@ -372,7 +372,7 @@ export default {
             this.cerrarModalConsignar();
             this.$toast.add({
               severity: "warn",
-              summary: "Consignacion",
+              summary: "Consignación",
               detail: data.data.Msg,
               life: 5000,
             });
